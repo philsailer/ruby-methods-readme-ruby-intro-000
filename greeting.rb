@@ -1,3 +1,14 @@
 def greeting
-  puts "Hello World" blah blahblah
+  puts "Hello World"
 end
+
+greeting
+greeting
+greeting
+greeting
+greeting
+greeting
+greeting
+greeting
+greeting
+greeting
